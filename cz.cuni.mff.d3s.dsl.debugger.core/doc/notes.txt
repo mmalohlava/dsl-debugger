@@ -1,0 +1,22 @@
+Issues v. challenges:
+ 
+ - traceability information
+   - how to employ standard M2T (M2M) tools
+    
+ - state mapping
+ 
+ -  
+ 
+Acceleo problems:
+ - how to manage generation of white spaces
+ 
+TODOs
+ - marker types depends of an input DSL 
+   - marker has to be generated
+ 
+ - launch shortcut 
+  - depends on debugged language (text extension)
+  
+ - editor actions depends on the type of editor - see extension point org.eclipse.ui.editorActions
+ 
+ - how to specify where the user can put breakpoint and where not

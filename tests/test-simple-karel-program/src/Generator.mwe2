@@ -1,0 +1,8 @@
+module Generator
+
+var targetDir = "src-gen"
+var modelPath = "src/model"
+
+Workflow {
+	component = @workflow.KarelGenerator auto-inject {}
+}

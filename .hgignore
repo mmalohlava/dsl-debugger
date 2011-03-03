@@ -1,0 +1,4 @@
+syntax: regexp
+\.settings/
+bin/
+.*class

@@ -1,0 +1,57 @@
+«IMPORT cz::cuni::mff::d3s::ui::wizard»
+
+«DEFINE main FOR KarelProjectInfo»
+«EXPAND model FOR this»
+«EXPAND templates FOR this»
+«EXPAND workflow FOR this»
+«ENDDEFINE»
+
+«DEFINE templates FOR KarelProjectInfo»
+«FILE "src/templates/"-»
+[comment encoding = UTF-8 /]
+
+[comment This is a simple template transforming Karel program into executable code /]
+
+[module main('http://www.cuni.cz/mff/d3s/Karel')/]
+[import cz::cuni::mff::d3s::karel::generator::templates::generateKarel/]
+
+[template public mainProgram(p : Program)]
+
+        [comment @main /]
+        [p.generateProgram()/]
+
+[/template]
+«ENDFILE»
+«ENDDEFINE»
+
+«DEFINE model FOR KarelProjectInfo»
+«FILE "src/model/Model.kaja"-»
+/*
+ * This is an example Karel program
+ */
+BEGIN-PROGRAM
+
+/* Karel initialization */
+BEGIN-INIT
+END-INIT
+
+/* Main program */
+BEGIN-MAIN
+END-MAIN
+
+END-PROGRAM
+«ENDFILE»
+«ENDDEFINE»
+
+«DEFINE workflow FOR KarelProjectInfo»
+«FILE "src/Generator.mwe2"-»
+module Generator
+
+var targetDir = "src-gen"
+var modelPath = "src/model"
+
+Workflow {
+	component = @workflow.KarelGenerator auto-inject {}
+}
+«ENDFILE»
+«ENDDEFINE»

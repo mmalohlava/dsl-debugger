@@ -1,0 +1,12 @@
+XText notes:
+ - how to define a grammar construct for this type of code
+   - the problem is a repetition of MyCommand name which is user defined name and it appears on two locations     
+   
+   definition of MyCommand:
+     ...
+     ...
+     ...   
+   end of MyCommand;
+   
+Debugger API
+ - add fragment into MWE

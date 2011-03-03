@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="ASCII"?>
+<traceability:TraceabilityModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:traceability="http://www.eclipse.org/acceleo/traceability/1.0">
+  <modules path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/bin/templates/main.emtl" name="main">
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/bin/templates/main.emtl#/0/mainProgram/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/bin/templates/main.emtl#/0/mainProgram/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/bin/templates/main.emtl#/0/mainProgram/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/bin/templates/main.emtl#/0/mainProgram/@body.3"/>
+    </moduleElements>
+  </modules>
+  <modules path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl" name="GenerateKarelProgram">
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarel/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelAPI/@body.0/@fileUrl"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelAPI/@body.0/@charset"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelAPI/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelAPI/@body.0/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelAPI/@body.0/@body.1/@iterSet"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelAPI/@body.0/@body.1/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelAPI/@body.0/@body.1/@body.1/@source"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelAPI/@body.0/@body.1/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelAPI/@body.0/@body.1/@body.4"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelAPI/@body.0/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarel/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarel/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelImpl/@body.0/@fileUrl"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelImpl/@body.0/@charset"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelImpl/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelImpl/@body.0/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelImpl/@body.0/@body.1/@iterSet"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelImpl/@body.0/@body.1/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelImpl/@body.0/@body.1/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelImpl/@body.0/@body.1/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelImpl/@body.0/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelImpl/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarel/@body.3"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarel/@body.4"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@fileUrl"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@charset"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.3/@ifExpr/@source"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.3/@body.0/@iterSet/@source"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.3/@body.0/@iterSet"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.3/@body.0/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.3/@body.0/@body.1/@argument.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.3/@body.0/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.3/@body.0/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateLauncher/@body.0/@body.4"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.3"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.4"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.5/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.0/@fileUrl"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.0/@charset"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.0/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.0/@body.1/@iterSet"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.0/@body.1/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.0/@body.1/@body.1/@argument.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.0/@body.1/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.0/@body.1/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.0/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateKarelProgram/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.5"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.6"/>
+    </moduleElements>
+  </modules>
+  <modules path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/Common.emtl" name="Common">
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/Common.emtl#/0/userCommandMethodSignature/@expression/@source/@source"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/Common.emtl#/0/userCommandMethodName/@expression/@source"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/Common.emtl#/0/userCommandMethodSignature/@expression/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/Common.emtl#/0/headingKindConverter/@expression/@source"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/Common.emtl#/0/userCommandMethodCall/@expression/@argument.0"/>
+    </moduleElements>
+  </modules>
+  <modules path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand">
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.1/@source"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.4"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.5/@iterSet"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.5/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.5/@body.1/@argument.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateCommandStatement/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateCommandStatement/@body.2/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/primitiveCommandConverter/@expression/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateCommandStatement/@body.3"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.5/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.5/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommand/@body.6"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.1/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateConditionExpr/@body.0/@ifExpr"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateConditionExpr/@body.0/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateConditionExpr/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateConditionExpr/@body.2/@source/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateConditionExpr/@body.2/@argument.0/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/conditionKindConverter/@expression/@source/collect/collect/@source/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/conditionKindConverter/@expression/@source/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/conditionKindConverter/@expression/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateConditionExpr/@body.3"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.3/@iterSet"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.3/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommandStatement/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommandStatement/@body.2/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommandStatement/@body.3"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.3/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.3/@body.1"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.3/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.4"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.5/@iterSet"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.6"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@body.1"/>
+    </moduleElements>
+  </modules>
+  <modules path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl" name="GenerateInitCommands">
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.1/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.1/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.1/@body.3/@argument.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.1/@body.4"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.2/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.2/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.2/@body.3"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.2/@body.4"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.2/@body.5"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.2/@body.6"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.3/@body.0"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.3/@body.2"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.3/@body.3"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.3/@body.4"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.3/@body.5"/>
+    </moduleElements>
+    <moduleElements>
+      <moduleElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.3/@body.6"/>
+    </moduleElements>
+  </modules>
+  <generatedFiles path="/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src-gen/gen/karel/api/KarelTheRobot.java" name="KarelTheRobot" charset="UTF-8" sourceElements="//@modelFiles.4/@InputElements.0" fileBlock="//@modules.1/@moduleElements.4" length="362">
+    <generatedRegions sourceElement="//@modelFiles.6/@InputElements.0" moduleElement="//@modules.1/@moduleElements.5" endOffset="118"/>
+    <generatedRegions sourceElement="//@modelFiles.8/@InputElements.0" moduleElement="//@modules.1/@moduleElements.7" startOffset="118" endOffset="154"/>
+    <generatedRegions sourceElement="//@modelFiles.9/@InputElements.0" moduleElement="//@modules.1/@moduleElements.8" startOffset="154" endOffset="163"/>
+    <generatedRegions sourceElement="//@modelFiles.10/@InputElements.0" moduleElement="//@modules.1/@moduleElements.9" startOffset="163" endOffset="174"/>
+    <generatedRegions sourceElement="//@modelFiles.11/@InputElements.0" moduleElement="//@modules.2/@moduleElements.0" startOffset="174" endOffset="186"/>
+    <generatedRegions sourceElement="//@modelFiles.13/@InputElements.0" moduleElement="//@modules.2/@moduleElements.2" startOffset="186" endOffset="188"/>
+    <generatedRegions sourceElement="//@modelFiles.12/@InputElements.0" moduleElement="//@modules.2/@moduleElements.1" startOffset="188" endOffset="197"/>
+    <generatedRegions sourceElement="//@modelFiles.14/@InputElements.0" moduleElement="//@modules.1/@moduleElements.10" startOffset="197" endOffset="199"/>
+    <generatedRegions sourceElement="//@modelFiles.15/@InputElements.0" moduleElement="//@modules.1/@moduleElements.7" startOffset="199" endOffset="235"/>
+    <generatedRegions sourceElement="//@modelFiles.16/@InputElements.0" moduleElement="//@modules.1/@moduleElements.8" startOffset="235" endOffset="243"/>
+    <generatedRegions sourceElement="//@modelFiles.17/@InputElements.0" moduleElement="//@modules.1/@moduleElements.9" startOffset="243" endOffset="254"/>
+    <generatedRegions sourceElement="//@modelFiles.18/@InputElements.0" moduleElement="//@modules.2/@moduleElements.0" startOffset="254" endOffset="266"/>
+    <generatedRegions sourceElement="//@modelFiles.20/@InputElements.0" moduleElement="//@modules.2/@moduleElements.2" startOffset="266" endOffset="268"/>
+    <generatedRegions sourceElement="//@modelFiles.19/@InputElements.0" moduleElement="//@modules.2/@moduleElements.1" startOffset="268" endOffset="276"/>
+    <generatedRegions sourceElement="//@modelFiles.21/@InputElements.0" moduleElement="//@modules.1/@moduleElements.10" startOffset="276" endOffset="278"/>
+    <generatedRegions sourceElement="//@modelFiles.22/@InputElements.0" moduleElement="//@modules.1/@moduleElements.7" startOffset="278" endOffset="314"/>
+    <generatedRegions sourceElement="//@modelFiles.23/@InputElements.0" moduleElement="//@modules.1/@moduleElements.8" startOffset="314" endOffset="323"/>
+    <generatedRegions sourceElement="//@modelFiles.24/@InputElements.0" moduleElement="//@modules.1/@moduleElements.9" startOffset="323" endOffset="334"/>
+    <generatedRegions sourceElement="//@modelFiles.25/@InputElements.0" moduleElement="//@modules.2/@moduleElements.0" startOffset="334" endOffset="346"/>
+    <generatedRegions sourceElement="//@modelFiles.27/@InputElements.0" moduleElement="//@modules.2/@moduleElements.2" startOffset="346" endOffset="348"/>
+    <generatedRegions sourceElement="//@modelFiles.26/@InputElements.0" moduleElement="//@modules.2/@moduleElements.1" startOffset="348" endOffset="357"/>
+    <generatedRegions sourceElement="//@modelFiles.28/@InputElements.0" moduleElement="//@modules.1/@moduleElements.10" startOffset="357" endOffset="359"/>
+    <generatedRegions sourceElement="//@modelFiles.29/@InputElements.0" moduleElement="//@modules.1/@moduleElements.11" startOffset="359" endOffset="362"/>
+    <nameRegions sourceElement="//@modelFiles.4/@InputElements.0" moduleElement="//@modules.1/@moduleElements.2" endOffset="32"/>
+    <nameRegions sourceElement="//@modelFiles.5/@InputElements.0" moduleElement="//@modules.1/@moduleElements.3" startOffset="32" endOffset="37"/>
+  </generatedFiles>
+  <generatedFiles path="/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src-gen/gen/karel/api/impl/KarelTheRobotImpl.java" name="KarelTheRobotImpl" charset="UTF-8" sourceElements="//@modelFiles.32/@InputElements.0" fileBlock="//@modules.1/@moduleElements.16" length="751">
+    <generatedRegions sourceElement="//@modelFiles.34/@InputElements.0" moduleElement="//@modules.1/@moduleElements.17" endOffset="197"/>
+    <generatedRegions sourceElement="//@modelFiles.36/@InputElements.0" moduleElement="//@modules.1/@moduleElements.19" startOffset="197" endOffset="198"/>
+    <generatedRegions sourceElement="//@modelFiles.37/@InputElements.0" moduleElement="//@modules.3/@moduleElements.0" startOffset="206" endOffset="225"/>
+    <generatedRegions sourceElement="//@modelFiles.39/@InputElements.0" moduleElement="//@modules.3/@moduleElements.2" startOffset="301" endOffset="338"/>
+    <generatedRegions sourceElement="//@modelFiles.40/@InputElements.0" moduleElement="//@modules.3/@moduleElements.3" startOffset="338" endOffset="348"/>
+    <generatedRegions sourceElement="//@modelFiles.41/@InputElements.0" moduleElement="//@modules.3/@moduleElements.4" startOffset="348" endOffset="352"/>
+    <generatedRegions sourceElement="//@modelFiles.43/@InputElements.0" moduleElement="//@modules.3/@moduleElements.6" startOffset="352" endOffset="355"/>
+    <generatedRegions sourceElement="//@modelFiles.45/@InputElements.0" moduleElement="//@modules.3/@moduleElements.8" startOffset="355" endOffset="356"/>
+    <generatedRegions sourceElement="//@modelFiles.46/@InputElements.0" moduleElement="//@modules.3/@moduleElements.9" startOffset="356" endOffset="360"/>
+    <generatedRegions sourceElement="//@modelFiles.47/@InputElements.0" moduleElement="//@modules.3/@moduleElements.10" startOffset="360" endOffset="362"/>
+    <generatedRegions sourceElement="//@modelFiles.48/@InputElements.0" moduleElement="//@modules.3/@moduleElements.11" startOffset="362" endOffset="367"/>
+    <generatedRegions sourceElement="//@modelFiles.49/@InputElements.0" moduleElement="//@modules.3/@moduleElements.12" startOffset="367" endOffset="368"/>
+    <generatedRegions sourceElement="//@modelFiles.50/@InputElements.0" moduleElement="//@modules.3/@moduleElements.13" startOffset="362" endOffset="365"/>
+    <generatedRegions sourceElement="//@modelFiles.51/@InputElements.0" moduleElement="//@modules.3/@moduleElements.14" startOffset="371" endOffset="378"/>
+    <generatedRegions sourceElement="//@modelFiles.52/@InputElements.0" moduleElement="//@modules.3/@moduleElements.6" startOffset="378" endOffset="381"/>
+    <generatedRegions sourceElement="//@modelFiles.54/@InputElements.0" moduleElement="//@modules.3/@moduleElements.8" startOffset="381" endOffset="382"/>
+    <generatedRegions sourceElement="//@modelFiles.55/@InputElements.0" moduleElement="//@modules.3/@moduleElements.9" startOffset="382" endOffset="386"/>
+    <generatedRegions sourceElement="//@modelFiles.56/@InputElements.0" moduleElement="//@modules.3/@moduleElements.11" startOffset="386" endOffset="391"/>
+    <generatedRegions sourceElement="//@modelFiles.57/@InputElements.0" moduleElement="//@modules.3/@moduleElements.12" startOffset="391" endOffset="392"/>
+    <generatedRegions sourceElement="//@modelFiles.58/@InputElements.0" moduleElement="//@modules.3/@moduleElements.13" startOffset="388" endOffset="391"/>
+    <generatedRegions sourceElement="//@modelFiles.59/@InputElements.0" moduleElement="//@modules.3/@moduleElements.14" startOffset="395" endOffset="402"/>
+    <generatedRegions sourceElement="//@modelFiles.60/@InputElements.0" moduleElement="//@modules.3/@moduleElements.15" startOffset="402" endOffset="405"/>
+    <generatedRegions sourceElement="//@modelFiles.61/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="9" endOffset="10"/>
+    <generatedRegions sourceElement="//@modelFiles.61/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="80" endOffset="81"/>
+    <generatedRegions sourceElement="//@modelFiles.61/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="88" endOffset="89"/>
+    <generatedRegions sourceElement="//@modelFiles.61/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="134" endOffset="135"/>
+    <generatedRegions sourceElement="//@modelFiles.61/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="143" endOffset="144"/>
+    <generatedRegions sourceElement="//@modelFiles.61/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="172" endOffset="173"/>
+    <generatedRegions sourceElement="//@modelFiles.61/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="193" endOffset="194"/>
+    <generatedRegions sourceElement="//@modelFiles.61/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="204" endOffset="205"/>
+    <generatedRegions sourceElement="//@modelFiles.37/@InputElements.0" moduleElement="//@modules.3/@moduleElements.0" startOffset="226" endOffset="236"/>
+    <generatedRegions sourceElement="//@modelFiles.61/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="225" endOffset="226"/>
+    <generatedRegions sourceElement="//@modelFiles.37/@InputElements.0" moduleElement="//@modules.3/@moduleElements.0" startOffset="237" endOffset="301"/>
+    <generatedRegions sourceElement="//@modelFiles.61/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="236" endOffset="237"/>
+    <generatedRegions sourceElement="//@modelFiles.62/@InputElements.0" moduleElement="//@modules.1/@moduleElements.21" startOffset="405" endOffset="406"/>
+    <generatedRegions sourceElement="//@modelFiles.63/@InputElements.0" moduleElement="//@modules.1/@moduleElements.19" startOffset="406" endOffset="407"/>
+    <generatedRegions sourceElement="//@modelFiles.64/@InputElements.0" moduleElement="//@modules.3/@moduleElements.0" startOffset="415" endOffset="508"/>
+    <generatedRegions sourceElement="//@modelFiles.65/@InputElements.0" moduleElement="//@modules.3/@moduleElements.3" startOffset="508" endOffset="518"/>
+    <generatedRegions sourceElement="//@modelFiles.66/@InputElements.0" moduleElement="//@modules.3/@moduleElements.4" startOffset="518" endOffset="522"/>
+    <generatedRegions sourceElement="//@modelFiles.68/@InputElements.0" moduleElement="//@modules.3/@moduleElements.6" startOffset="522" endOffset="525"/>
+    <generatedRegions sourceElement="//@modelFiles.70/@InputElements.0" moduleElement="//@modules.3/@moduleElements.8" startOffset="525" endOffset="526"/>
+    <generatedRegions sourceElement="//@modelFiles.71/@InputElements.0" moduleElement="//@modules.3/@moduleElements.9" startOffset="526" endOffset="530"/>
+    <generatedRegions sourceElement="//@modelFiles.72/@InputElements.0" moduleElement="//@modules.3/@moduleElements.10" startOffset="530" endOffset="532"/>
+    <generatedRegions sourceElement="//@modelFiles.73/@InputElements.0" moduleElement="//@modules.3/@moduleElements.11" startOffset="532" endOffset="537"/>
+    <generatedRegions sourceElement="//@modelFiles.74/@InputElements.0" moduleElement="//@modules.3/@moduleElements.12" startOffset="537" endOffset="538"/>
+    <generatedRegions sourceElement="//@modelFiles.75/@InputElements.0" moduleElement="//@modules.3/@moduleElements.13" startOffset="534" endOffset="537"/>
+    <generatedRegions sourceElement="//@modelFiles.76/@InputElements.0" moduleElement="//@modules.3/@moduleElements.14" startOffset="541" endOffset="548"/>
+    <generatedRegions sourceElement="//@modelFiles.77/@InputElements.0" moduleElement="//@modules.3/@moduleElements.15" startOffset="548" endOffset="551"/>
+    <generatedRegions sourceElement="//@modelFiles.78/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="9" endOffset="10"/>
+    <generatedRegions sourceElement="//@modelFiles.78/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="80" endOffset="81"/>
+    <generatedRegions sourceElement="//@modelFiles.78/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="88" endOffset="89"/>
+    <generatedRegions sourceElement="//@modelFiles.78/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="295" endOffset="296"/>
+    <generatedRegions sourceElement="//@modelFiles.78/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="304" endOffset="305"/>
+    <generatedRegions sourceElement="//@modelFiles.78/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="332" endOffset="333"/>
+    <generatedRegions sourceElement="//@modelFiles.78/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="353" endOffset="354"/>
+    <generatedRegions sourceElement="//@modelFiles.78/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="364" endOffset="365"/>
+    <generatedRegions sourceElement="//@modelFiles.79/@InputElements.0" moduleElement="//@modules.1/@moduleElements.21" startOffset="551" endOffset="552"/>
+    <generatedRegions sourceElement="//@modelFiles.80/@InputElements.0" moduleElement="//@modules.1/@moduleElements.19" startOffset="552" endOffset="553"/>
+    <generatedRegions sourceElement="//@modelFiles.81/@InputElements.0" moduleElement="//@modules.3/@moduleElements.0" startOffset="565" endOffset="658"/>
+    <generatedRegions sourceElement="//@modelFiles.82/@InputElements.0" moduleElement="//@modules.3/@moduleElements.3" startOffset="658" endOffset="668"/>
+    <generatedRegions sourceElement="//@modelFiles.83/@InputElements.0" moduleElement="//@modules.3/@moduleElements.4" startOffset="668" endOffset="672"/>
+    <generatedRegions sourceElement="//@modelFiles.85/@InputElements.0" moduleElement="//@modules.3/@moduleElements.6" startOffset="672" endOffset="675"/>
+    <generatedRegions sourceElement="//@modelFiles.87/@InputElements.0" moduleElement="//@modules.3/@moduleElements.8" startOffset="675" endOffset="676"/>
+    <generatedRegions sourceElement="//@modelFiles.88/@InputElements.0" moduleElement="//@modules.3/@moduleElements.9" startOffset="676" endOffset="680"/>
+    <generatedRegions sourceElement="//@modelFiles.89/@InputElements.0" moduleElement="//@modules.3/@moduleElements.11" startOffset="680" endOffset="685"/>
+    <generatedRegions sourceElement="//@modelFiles.90/@InputElements.0" moduleElement="//@modules.3/@moduleElements.12" startOffset="685" endOffset="686"/>
+    <generatedRegions sourceElement="//@modelFiles.91/@InputElements.0" moduleElement="//@modules.3/@moduleElements.13" startOffset="680" endOffset="683"/>
+    <generatedRegions sourceElement="//@modelFiles.92/@InputElements.0" moduleElement="//@modules.3/@moduleElements.14" startOffset="689" endOffset="696"/>
+    <generatedRegions sourceElement="//@modelFiles.93/@InputElements.0" moduleElement="//@modules.3/@moduleElements.6" startOffset="696" endOffset="699"/>
+    <generatedRegions sourceElement="//@modelFiles.95/@InputElements.0" moduleElement="//@modules.3/@moduleElements.8" startOffset="699" endOffset="700"/>
+    <generatedRegions sourceElement="//@modelFiles.96/@InputElements.0" moduleElement="//@modules.3/@moduleElements.9" startOffset="700" endOffset="704"/>
+    <generatedRegions sourceElement="//@modelFiles.97/@InputElements.0" moduleElement="//@modules.3/@moduleElements.11" startOffset="704" endOffset="709"/>
+    <generatedRegions sourceElement="//@modelFiles.98/@InputElements.0" moduleElement="//@modules.3/@moduleElements.12" startOffset="709" endOffset="710"/>
+    <generatedRegions sourceElement="//@modelFiles.99/@InputElements.0" moduleElement="//@modules.3/@moduleElements.13" startOffset="704" endOffset="707"/>
+    <generatedRegions sourceElement="//@modelFiles.100/@InputElements.0" moduleElement="//@modules.3/@moduleElements.14" startOffset="713" endOffset="720"/>
+    <generatedRegions sourceElement="//@modelFiles.101/@InputElements.0" moduleElement="//@modules.3/@moduleElements.6" startOffset="720" endOffset="723"/>
+    <generatedRegions sourceElement="//@modelFiles.103/@InputElements.0" moduleElement="//@modules.3/@moduleElements.8" startOffset="723" endOffset="724"/>
+    <generatedRegions sourceElement="//@modelFiles.104/@InputElements.0" moduleElement="//@modules.3/@moduleElements.9" startOffset="724" endOffset="728"/>
+    <generatedRegions sourceElement="//@modelFiles.105/@InputElements.0" moduleElement="//@modules.3/@moduleElements.11" startOffset="728" endOffset="733"/>
+    <generatedRegions sourceElement="//@modelFiles.106/@InputElements.0" moduleElement="//@modules.3/@moduleElements.12" startOffset="733" endOffset="734"/>
+    <generatedRegions sourceElement="//@modelFiles.107/@InputElements.0" moduleElement="//@modules.3/@moduleElements.13" startOffset="728" endOffset="731"/>
+    <generatedRegions sourceElement="//@modelFiles.108/@InputElements.0" moduleElement="//@modules.3/@moduleElements.14" startOffset="737" endOffset="744"/>
+    <generatedRegions sourceElement="//@modelFiles.109/@InputElements.0" moduleElement="//@modules.3/@moduleElements.15" startOffset="744" endOffset="747"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="9" endOffset="10"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="80" endOffset="81"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="88" endOffset="89"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="295" endOffset="296"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="304" endOffset="305"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="333" endOffset="334"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="354" endOffset="355"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="365" endOffset="366"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="386" endOffset="387"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="397" endOffset="398"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="418" endOffset="419"/>
+    <generatedRegions sourceElement="//@modelFiles.110/@InputElements.0" moduleElement="//@modules.1/@moduleElements.20" startOffset="429" endOffset="430"/>
+    <generatedRegions sourceElement="//@modelFiles.111/@InputElements.0" moduleElement="//@modules.1/@moduleElements.21" startOffset="747" endOffset="748"/>
+    <generatedRegions sourceElement="//@modelFiles.112/@InputElements.0" moduleElement="//@modules.1/@moduleElements.22" startOffset="748" endOffset="751"/>
+    <nameRegions sourceElement="//@modelFiles.32/@InputElements.0" moduleElement="//@modules.1/@moduleElements.14" endOffset="41"/>
+    <nameRegions sourceElement="//@modelFiles.33/@InputElements.0" moduleElement="//@modules.1/@moduleElements.15" startOffset="41" endOffset="46"/>
+  </generatedFiles>
+  <generatedFiles path="/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src-gen/gen/karel/KarelProgramLauncher.java" name="KarelProgramLauncher" charset="UTF-8" sourceElements="//@modelFiles.118/@InputElements.0" fileBlock="//@modules.1/@moduleElements.30" length="833">
+    <generatedRegions sourceElement="//@modelFiles.120/@InputElements.0" moduleElement="//@modules.1/@moduleElements.31" endOffset="282"/>
+    <generatedRegions sourceElement="//@modelFiles.121/@InputElements.0" moduleElement="//@modules.1/@moduleElements.32" startOffset="282" endOffset="284"/>
+    <generatedRegions sourceElement="//@modelFiles.122/@InputElements.0" moduleElement="//@modules.1/@moduleElements.33" startOffset="284" endOffset="517"/>
+    <generatedRegions sourceElement="//@modelFiles.126/@InputElements.0" moduleElement="//@modules.1/@moduleElements.37" startOffset="517" endOffset="522"/>
+    <generatedRegions sourceElement="//@modelFiles.128/@InputElements.0" moduleElement="//@modules.4/@moduleElements.0" startOffset="522" endOffset="523"/>
+    <generatedRegions sourceElement="//@modelFiles.129/@InputElements.0" moduleElement="//@modules.4/@moduleElements.1" startOffset="523" endOffset="546"/>
+    <generatedRegions sourceElement="//@modelFiles.130/@InputElements.0" moduleElement="//@modules.4/@moduleElements.2" startOffset="546" endOffset="550"/>
+    <generatedRegions sourceElement="//@modelFiles.131/@InputElements.0" moduleElement="//@modules.2/@moduleElements.3" startOffset="550" endOffset="567"/>
+    <generatedRegions sourceElement="//@modelFiles.132/@InputElements.0" moduleElement="//@modules.4/@moduleElements.3" startOffset="567" endOffset="570"/>
+    <generatedRegions sourceElement="//@modelFiles.134/@InputElements.0" moduleElement="//@modules.1/@moduleElements.40" startOffset="570" endOffset="575"/>
+    <generatedRegions sourceElement="//@modelFiles.135/@InputElements.0" moduleElement="//@modules.1/@moduleElements.37" startOffset="575" endOffset="580"/>
+    <generatedRegions sourceElement="//@modelFiles.137/@InputElements.0" moduleElement="//@modules.4/@moduleElements.4" startOffset="580" endOffset="581"/>
+    <generatedRegions sourceElement="//@modelFiles.138/@InputElements.0" moduleElement="//@modules.4/@moduleElements.5" startOffset="581" endOffset="605"/>
+    <generatedRegions sourceElement="//@modelFiles.139/@InputElements.0" moduleElement="//@modules.4/@moduleElements.6" startOffset="605" endOffset="606"/>
+    <generatedRegions sourceElement="//@modelFiles.140/@InputElements.0" moduleElement="//@modules.4/@moduleElements.7" startOffset="606" endOffset="608"/>
+    <generatedRegions sourceElement="//@modelFiles.141/@InputElements.0" moduleElement="//@modules.4/@moduleElements.8" startOffset="608" endOffset="609"/>
+    <generatedRegions sourceElement="//@modelFiles.142/@InputElements.0" moduleElement="//@modules.4/@moduleElements.9" startOffset="609" endOffset="612"/>
+    <generatedRegions sourceElement="//@modelFiles.144/@InputElements.0" moduleElement="//@modules.1/@moduleElements.40" startOffset="612" endOffset="617"/>
+    <generatedRegions sourceElement="//@modelFiles.145/@InputElements.0" moduleElement="//@modules.1/@moduleElements.37" startOffset="617" endOffset="622"/>
+    <generatedRegions sourceElement="//@modelFiles.147/@InputElements.0" moduleElement="//@modules.4/@moduleElements.10" startOffset="622" endOffset="623"/>
+    <generatedRegions sourceElement="//@modelFiles.148/@InputElements.0" moduleElement="//@modules.4/@moduleElements.11" startOffset="623" endOffset="637"/>
+    <generatedRegions sourceElement="//@modelFiles.149/@InputElements.0" moduleElement="//@modules.4/@moduleElements.12" startOffset="637" endOffset="639"/>
+    <generatedRegions sourceElement="//@modelFiles.150/@InputElements.0" moduleElement="//@modules.4/@moduleElements.13" startOffset="639" endOffset="641"/>
+    <generatedRegions sourceElement="//@modelFiles.151/@InputElements.0" moduleElement="//@modules.4/@moduleElements.14" startOffset="641" endOffset="643"/>
+    <generatedRegions sourceElement="//@modelFiles.152/@InputElements.0" moduleElement="//@modules.4/@moduleElements.15" startOffset="643" endOffset="646"/>
+    <generatedRegions sourceElement="//@modelFiles.154/@InputElements.0" moduleElement="//@modules.1/@moduleElements.40" startOffset="646" endOffset="651"/>
+    <generatedRegions sourceElement="//@modelFiles.155/@InputElements.0" moduleElement="//@modules.1/@moduleElements.41" startOffset="651" endOffset="833"/>
+    <nameRegions sourceElement="//@modelFiles.118/@InputElements.0" moduleElement="//@modules.1/@moduleElements.28" endOffset="35"/>
+    <nameRegions sourceElement="//@modelFiles.119/@InputElements.0" moduleElement="//@modules.1/@moduleElements.29" startOffset="35" endOffset="40"/>
+  </generatedFiles>
+  <generatedFiles path="/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src-gen/gen/karel/api/impl/KarelProgramImpl.java" name="KarelProgramImpl" charset="UTF-8" sourceElements="//@modelFiles.159/@InputElements.0" fileBlock="//@modules.1/@moduleElements.47" length="807">
+    <generatedRegions sourceElement="//@modelFiles.161/@InputElements.0" moduleElement="//@modules.1/@moduleElements.48" endOffset="327"/>
+    <generatedRegions sourceElement="//@modelFiles.163/@InputElements.0" moduleElement="//@modules.1/@moduleElements.50" startOffset="327" endOffset="330"/>
+    <generatedRegions sourceElement="//@modelFiles.165/@InputElements.0" moduleElement="//@modules.3/@moduleElements.8" startOffset="330" endOffset="331"/>
+    <generatedRegions sourceElement="//@modelFiles.166/@InputElements.0" moduleElement="//@modules.3/@moduleElements.9" startOffset="331" endOffset="335"/>
+    <generatedRegions sourceElement="//@modelFiles.167/@InputElements.0" moduleElement="//@modules.3/@moduleElements.11" startOffset="335" endOffset="340"/>
+    <generatedRegions sourceElement="//@modelFiles.168/@InputElements.0" moduleElement="//@modules.3/@moduleElements.12" startOffset="340" endOffset="341"/>
+    <generatedRegions sourceElement="//@modelFiles.169/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="348" endOffset="351"/>
+    <generatedRegions sourceElement="//@modelFiles.170/@InputElements.0" moduleElement="//@modules.1/@moduleElements.53" startOffset="344" endOffset="353"/>
+    <generatedRegions sourceElement="//@modelFiles.171/@InputElements.0" moduleElement="//@modules.1/@moduleElements.50" startOffset="353" endOffset="356"/>
+    <generatedRegions sourceElement="//@modelFiles.173/@InputElements.0" moduleElement="//@modules.3/@moduleElements.8" startOffset="356" endOffset="357"/>
+    <generatedRegions sourceElement="//@modelFiles.174/@InputElements.0" moduleElement="//@modules.3/@moduleElements.9" startOffset="357" endOffset="361"/>
+    <generatedRegions sourceElement="//@modelFiles.175/@InputElements.0" moduleElement="//@modules.3/@moduleElements.11" startOffset="361" endOffset="366"/>
+    <generatedRegions sourceElement="//@modelFiles.176/@InputElements.0" moduleElement="//@modules.3/@moduleElements.12" startOffset="366" endOffset="367"/>
+    <generatedRegions sourceElement="//@modelFiles.177/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="374" endOffset="377"/>
+    <generatedRegions sourceElement="//@modelFiles.178/@InputElements.0" moduleElement="//@modules.1/@moduleElements.53" startOffset="370" endOffset="379"/>
+    <generatedRegions sourceElement="//@modelFiles.179/@InputElements.0" moduleElement="//@modules.1/@moduleElements.50" startOffset="379" endOffset="382"/>
+    <generatedRegions sourceElement="//@modelFiles.181/@InputElements.0" moduleElement="//@modules.3/@moduleElements.16" startOffset="397" endOffset="401"/>
+    <generatedRegions sourceElement="//@modelFiles.184/@InputElements.0" moduleElement="//@modules.3/@moduleElements.19" startOffset="401" endOffset="402"/>
+    <generatedRegions sourceElement="//@modelFiles.185/@InputElements.0" moduleElement="//@modules.3/@moduleElements.20" startOffset="402" endOffset="403"/>
+    <generatedRegions sourceElement="//@modelFiles.186/@InputElements.0" moduleElement="//@modules.3/@moduleElements.21" startOffset="403" endOffset="404"/>
+    <generatedRegions sourceElement="//@modelFiles.187/@InputElements.0" moduleElement="//@modules.3/@moduleElements.22" startOffset="404" endOffset="414"/>
+    <generatedRegions sourceElement="//@modelFiles.188/@InputElements.0" moduleElement="//@modules.3/@moduleElements.23" startOffset="414" endOffset="415"/>
+    <generatedRegions sourceElement="//@modelFiles.189/@InputElements.0" moduleElement="//@modules.3/@moduleElements.24" startOffset="415" endOffset="417"/>
+    <generatedRegions sourceElement="//@modelFiles.190/@InputElements.0" moduleElement="//@modules.3/@moduleElements.25" startOffset="417" endOffset="419"/>
+    <generatedRegions sourceElement="//@modelFiles.191/@InputElements.0" moduleElement="//@modules.3/@moduleElements.26" startOffset="419" endOffset="421"/>
+    <generatedRegions sourceElement="//@modelFiles.192/@InputElements.0" moduleElement="//@modules.3/@moduleElements.27" startOffset="421" endOffset="425"/>
+    <generatedRegions sourceElement="//@modelFiles.194/@InputElements.0" moduleElement="//@modules.3/@moduleElements.29" startOffset="425" endOffset="426"/>
+    <generatedRegions sourceElement="//@modelFiles.195/@InputElements.0" moduleElement="//@modules.3/@moduleElements.30" startOffset="426" endOffset="427"/>
+    <generatedRegions sourceElement="//@modelFiles.196/@InputElements.0" moduleElement="//@modules.3/@moduleElements.31" startOffset="427" endOffset="452"/>
+    <generatedRegions sourceElement="//@modelFiles.197/@InputElements.0" moduleElement="//@modules.2/@moduleElements.4" startOffset="504" endOffset="506"/>
+    <generatedRegions sourceElement="//@modelFiles.198/@InputElements.0" moduleElement="//@modules.3/@moduleElements.32" startOffset="506" endOffset="509"/>
+    <generatedRegions sourceElement="//@modelFiles.199/@InputElements.0" moduleElement="//@modules.3/@moduleElements.33" startOffset="509" endOffset="515"/>
+    <generatedRegions sourceElement="//@modelFiles.196/@InputElements.0" moduleElement="//@modules.3/@moduleElements.31" startOffset="453" endOffset="504"/>
+    <generatedRegions sourceElement="//@modelFiles.200/@InputElements.0" moduleElement="//@modules.3/@moduleElements.34" startOffset="452" endOffset="453"/>
+    <generatedRegions sourceElement="//@modelFiles.201/@InputElements.0" moduleElement="//@modules.3/@moduleElements.35" startOffset="515" endOffset="522"/>
+    <generatedRegions sourceElement="//@modelFiles.202/@InputElements.0" moduleElement="//@modules.3/@moduleElements.36" startOffset="522" endOffset="531"/>
+    <generatedRegions sourceElement="//@modelFiles.204/@InputElements.0" moduleElement="//@modules.3/@moduleElements.38" startOffset="531" endOffset="533"/>
+    <generatedRegions sourceElement="//@modelFiles.205/@InputElements.0" moduleElement="//@modules.3/@moduleElements.39" startOffset="518" endOffset="519"/>
+    <generatedRegions sourceElement="//@modelFiles.206/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="31" endOffset="34"/>
+    <generatedRegions sourceElement="//@modelFiles.206/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="61" endOffset="64"/>
+    <generatedRegions sourceElement="//@modelFiles.206/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="72" endOffset="75"/>
+    <generatedRegions sourceElement="//@modelFiles.206/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="84" endOffset="87"/>
+    <generatedRegions sourceElement="//@modelFiles.206/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="90" endOffset="93"/>
+    <generatedRegions sourceElement="//@modelFiles.207/@InputElements.0" moduleElement="//@modules.1/@moduleElements.53" startOffset="534" endOffset="543"/>
+    <generatedRegions sourceElement="//@modelFiles.208/@InputElements.0" moduleElement="//@modules.1/@moduleElements.50" startOffset="543" endOffset="546"/>
+    <generatedRegions sourceElement="//@modelFiles.210/@InputElements.0" moduleElement="//@modules.3/@moduleElements.8" startOffset="546" endOffset="547"/>
+    <generatedRegions sourceElement="//@modelFiles.211/@InputElements.0" moduleElement="//@modules.3/@moduleElements.9" startOffset="547" endOffset="550"/>
+    <generatedRegions sourceElement="//@modelFiles.212/@InputElements.0" moduleElement="//@modules.3/@moduleElements.10" startOffset="550" endOffset="552"/>
+    <generatedRegions sourceElement="//@modelFiles.213/@InputElements.0" moduleElement="//@modules.3/@moduleElements.11" startOffset="552" endOffset="557"/>
+    <generatedRegions sourceElement="//@modelFiles.214/@InputElements.0" moduleElement="//@modules.3/@moduleElements.12" startOffset="557" endOffset="558"/>
+    <generatedRegions sourceElement="//@modelFiles.215/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="563" endOffset="566"/>
+    <generatedRegions sourceElement="//@modelFiles.216/@InputElements.0" moduleElement="//@modules.1/@moduleElements.53" startOffset="561" endOffset="570"/>
+    <generatedRegions sourceElement="//@modelFiles.217/@InputElements.0" moduleElement="//@modules.1/@moduleElements.50" startOffset="570" endOffset="573"/>
+    <generatedRegions sourceElement="//@modelFiles.219/@InputElements.0" moduleElement="//@modules.3/@moduleElements.30" startOffset="573" endOffset="574"/>
+    <generatedRegions sourceElement="//@modelFiles.220/@InputElements.0" moduleElement="//@modules.3/@moduleElements.31" startOffset="574" endOffset="599"/>
+    <generatedRegions sourceElement="//@modelFiles.221/@InputElements.0" moduleElement="//@modules.2/@moduleElements.4" startOffset="653" endOffset="655"/>
+    <generatedRegions sourceElement="//@modelFiles.222/@InputElements.0" moduleElement="//@modules.3/@moduleElements.32" startOffset="655" endOffset="658"/>
+    <generatedRegions sourceElement="//@modelFiles.223/@InputElements.0" moduleElement="//@modules.3/@moduleElements.33" startOffset="658" endOffset="664"/>
+    <generatedRegions sourceElement="//@modelFiles.220/@InputElements.0" moduleElement="//@modules.3/@moduleElements.31" startOffset="602" endOffset="653"/>
+    <generatedRegions sourceElement="//@modelFiles.224/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="599" endOffset="602"/>
+    <generatedRegions sourceElement="//@modelFiles.225/@InputElements.0" moduleElement="//@modules.1/@moduleElements.53" startOffset="664" endOffset="673"/>
+    <generatedRegions sourceElement="//@modelFiles.226/@InputElements.0" moduleElement="//@modules.1/@moduleElements.50" startOffset="673" endOffset="676"/>
+    <generatedRegions sourceElement="//@modelFiles.228/@InputElements.0" moduleElement="//@modules.3/@moduleElements.30" startOffset="676" endOffset="677"/>
+    <generatedRegions sourceElement="//@modelFiles.229/@InputElements.0" moduleElement="//@modules.3/@moduleElements.31" startOffset="677" endOffset="702"/>
+    <generatedRegions sourceElement="//@modelFiles.230/@InputElements.0" moduleElement="//@modules.3/@moduleElements.32" startOffset="756" endOffset="759"/>
+    <generatedRegions sourceElement="//@modelFiles.231/@InputElements.0" moduleElement="//@modules.3/@moduleElements.33" startOffset="759" endOffset="765"/>
+    <generatedRegions sourceElement="//@modelFiles.229/@InputElements.0" moduleElement="//@modules.3/@moduleElements.31" startOffset="705" endOffset="756"/>
+    <generatedRegions sourceElement="//@modelFiles.232/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="702" endOffset="705"/>
+    <generatedRegions sourceElement="//@modelFiles.233/@InputElements.0" moduleElement="//@modules.1/@moduleElements.53" startOffset="765" endOffset="774"/>
+    <generatedRegions sourceElement="//@modelFiles.234/@InputElements.0" moduleElement="//@modules.1/@moduleElements.50" startOffset="774" endOffset="777"/>
+    <generatedRegions sourceElement="//@modelFiles.236/@InputElements.0" moduleElement="//@modules.3/@moduleElements.8" startOffset="777" endOffset="778"/>
+    <generatedRegions sourceElement="//@modelFiles.237/@InputElements.0" moduleElement="//@modules.3/@moduleElements.9" startOffset="778" endOffset="781"/>
+    <generatedRegions sourceElement="//@modelFiles.238/@InputElements.0" moduleElement="//@modules.3/@moduleElements.10" startOffset="781" endOffset="783"/>
+    <generatedRegions sourceElement="//@modelFiles.239/@InputElements.0" moduleElement="//@modules.3/@moduleElements.11" startOffset="783" endOffset="788"/>
+    <generatedRegions sourceElement="//@modelFiles.240/@InputElements.0" moduleElement="//@modules.3/@moduleElements.12" startOffset="788" endOffset="789"/>
+    <generatedRegions sourceElement="//@modelFiles.241/@InputElements.0" moduleElement="//@modules.1/@moduleElements.52" startOffset="794" endOffset="797"/>
+    <generatedRegions sourceElement="//@modelFiles.242/@InputElements.0" moduleElement="//@modules.1/@moduleElements.53" startOffset="792" endOffset="801"/>
+    <generatedRegions sourceElement="//@modelFiles.243/@InputElements.0" moduleElement="//@modules.1/@moduleElements.54" startOffset="801" endOffset="807"/>
+    <nameRegions sourceElement="//@modelFiles.159/@InputElements.0" moduleElement="//@modules.1/@moduleElements.45" endOffset="40"/>
+    <nameRegions sourceElement="//@modelFiles.160/@InputElements.0" moduleElement="//@modules.1/@moduleElements.46" startOffset="40" endOffset="45"/>
+  </generatedFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//Program/userDefinedCommands"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommand/name"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommand/name"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommand/name"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommand/name"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommand/name"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommand/name"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//Program/userDefinedCommands"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommand/doc"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@doc"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//DocumentationComment/text"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommand/statements"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.0"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//CommandStatement/kind"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateCommandStatement/@body.2/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.1"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//CommandStatement/kind"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommand/statements"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1/@statements.0"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//CommandStatement/kind"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateCommandStatement/@body.2/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommand/statements"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.0"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//CommandStatement/kind"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.1"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//CommandStatement/kind"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.2"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//CommandStatement/kind"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2/@statements.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@userDefinedCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//Program/initSection"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//Program/initSection"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//InitSection/initCommands"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.0"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//InitHeadingCommand/heading"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl" name="GenerateInitCommands.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateInitCommands.emtl#/0/generateInitCommand.1/@body.3/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.1"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//InitPositionCommand/x"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.1"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//InitPositionCommand/y"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.2"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//InitBoardSizeCommand/width"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.2"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//InitBoardSizeCommand/height"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@initSection/@initCommands.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//Program/main"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl" name="GenerateKarelProgram.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.5/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl" name="GenerateKarelProgram.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.5/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl" name="GenerateKarelProgram.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.5/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//Main/statements"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.0"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//CommandStatement/kind"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.1"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//CommandStatement/kind"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.1"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//IfStatement/condition"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2/@condition"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//ConditionExpr/negation"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.1/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.1/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.1/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2/@condition"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//ConditionExpr/expr"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateConditionExpr/@body.2/@argument.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateConditionExpr/@body.2/@argument.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateConditionExpr/@body.2/@argument.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateIfStatement/@body.1/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//IfStatement/statements"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.3/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2/@statements.0"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommandStatement/command"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommandStatement/@body.2/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.3/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2/@statements.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//IfStatement/elseStatements"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.2"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.3"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.3"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.3"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//CommandStatement/kind"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateCommandStatement/@body.2/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.3"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.3"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.3"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.4"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.4"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.3/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.4"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommandStatement/command"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateUserCommandStatement/@body.2/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.3/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.4"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.4"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.4"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.5"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.5"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.3/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.5"/>
+      <feature xsi:type="ecore:EReference" href="http://www.cuni.cz/mff/d3s/Karel#//UserDefinedCommandStatement/command"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.3/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.5"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.5"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.5"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.6"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.6"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.6"/>
+      <feature xsi:type="ecore:EAttribute" href="http://www.cuni.cz/mff/d3s/Karel#//CommandStatement/kind"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateCommandStatement/@body.2/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl" name="GenerateUserCommand.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/internal/GenerateUserCommand.emtl#/0/generateStatement/@body.0/@elseIf.2/@body.0/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.6"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.6"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#//@main/@statements.6"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl" name="GenerateKarelProgram.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.5/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl" name="GenerateKarelProgram.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.5/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl" name="GenerateKarelProgram.emtl">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/plugin/cz.cuni.mff.d3s.karel.generator/bin/cz/cuni/mff/d3s/karel/generator/templates/GenerateKarelProgram.emtl#/0/generateProgram/@body.5/@argument.0"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+  <modelFiles path="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja" name="Model.kaja">
+    <InputElements>
+      <modelElement href="file:/home/michal/prg/projects/dsl-debugger/runtime-wss/ws-main/test-karel/src/model/Model.kaja#/"/>
+    </InputElements>
+  </modelFiles>
+</traceability:TraceabilityModel>

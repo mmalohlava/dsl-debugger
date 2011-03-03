@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.debug.core.breakpoints">
+      <breakpoint
+            class="cz.cuni.mff.d3s.dsl.debugger.breakpoints.DSLLineBreakpoint"
+            id="cz.cuni.mff.d3s.dsl.debugger.DSLLineBreakpoint"
+            markerType="cz.cuni.mff.d3s.dsl.debugger.dslLineMarker"
+            name="DSL line breakpoint">
+      </breakpoint>
+   </extension>
+   <extension
+         id="cz.cuni.mff.d3s.dsl.debugger.dslLineMarker"
+         name="DSLLineMarker"
+         point="org.eclipse.core.resources.markers">
+      <super
+            type="org.eclipse.debug.core.lineBreakpointMarker">
+      </super>
+      <persistent
+            value="true">
+      </persistent>
+   </extension>
+   
+   <extension
+         point="org.eclipse.debug.core.launchConfigurationTypes">
+      <launchConfigurationType
+            delegate="cz.cuni.mff.d3s.dsl.debugger.launch.DSLDebuggerLaunchConfigurationDelegate"
+            delegateDescription="DSL debugger"
+            delegateName="DSL debugger launcher"
+            id="cz.cuni.mff.d3s.dsl.debugger.ui.dslDebuggerLaunchConfigurationType"
+            modes="debug"
+            name="DSL debugger"
+            public="true"
+            sourceLocatorId="org.eclipse.jdt.launching.sourceLocator.JavaSourceLookupDirector"
+            sourcePathComputerId="org.eclipse.jdt.launching.sourceLookup.javaSourcePathComputer">
+      </launchConfigurationType>
+   </extension>
+
+</plugin>

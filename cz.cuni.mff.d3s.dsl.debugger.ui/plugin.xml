@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>   
+   <extension
+         point="org.eclipse.debug.ui.launchConfigurationTabGroups">
+      <launchConfigurationTabGroup
+            class="cz.cuni.mff.d3s.dsl.debugger.ui.launch.tabs.DSLDebuggerLaunchConfigurationTabGroup"
+            id="cz.cuni.mff.d3s.dsl.debugger.ui.launchConfigurationTabGroup1"
+            type="cz.cuni.mff.d3s.dsl.debugger.ui.dslDebuggerLaunchConfigurationType">
+         <launchMode
+               description="DSL debug perspective"
+               mode="debug"
+               perspective="org.eclipse.debug.ui.DebugPerspective">
+         </launchMode>
+      </launchConfigurationTabGroup>
+   </extension>
+   <extension
+         point="org.eclipse.ui.editorActions">
+      <editorContribution
+            id="cz.cuni.mff.d3s.dsl.debugger.ui.karelEditorRulerAction"
+            targetID="cz.cuni.mff.d3s.Karel">
+         <action
+               actionID="RulerDoubleClick"
+               class="org.eclipse.debug.ui.actions.RulerToggleBreakpointActionDelegate"
+               id="cz.cuni.mff.d3s.dsl.debugger.ui.doubleClickRulerAction"
+               label="Ruler line breakpoint"
+               style="push">
+         </action>
+      </editorContribution>
+   </extension>
+   <extension
+         point="org.eclipse.ui.popupMenus">
+      <viewerContribution
+            id="cz.cuni.mff.d3s.dsl.debugger.ui.actions.rulerActions"
+            targetID="cz.cuni.mff.d3s.Karel.RulerContext">
+         <action
+               class="org.eclipse.debug.ui.actions.RulerToggleBreakpointActionDelegate"
+               id="cz.cuni.mff.d3s.dsl.debugger.ui.actions.toggleBreakpointAction"
+               label="Toggle breakpoint"
+               menubarPath="debugging">
+         </action>
+      </viewerContribution>
+   </extension>
+   
+</plugin>

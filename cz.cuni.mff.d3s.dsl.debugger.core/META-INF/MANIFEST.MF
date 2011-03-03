@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DSL Debugger Core
+Bundle-SymbolicName: cz.cuni.mff.d3s.dsl.debugger.core;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: cz.cuni.mff.d3s.dsl.debugger.DSLDebuggerCore
+Bundle-Vendor: D3S
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.acceleo.engine;bundle-version="3.0.0",
+ org.apache.commons.logging;bundle-version="1.1.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
