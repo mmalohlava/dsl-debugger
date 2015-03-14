@@ -1,0 +1,5 @@
+Contemporary software development trends focus on adopting model-driven methods for software production which allow to mitigate required effort. With increasing use of various domain-specific languages (DSLs) to describe models, the demand of suitable DSL tools appears. Mature tools for DSL grammar definition and transformation already exist and they are often adopted by industry. However, one of tools which is identified as crucial and still missing is a DSL debugger, which would permit observing and changing the model state during its execution and hence improve the development process of models.
+
+Therefore, the primary objective of this project is to provide a suitable Eclipse-based DSL debugging techniques and identify major concepts to build a DSL debugger. Further, it proposes possible extensions to automatize the process of DSL debugger preparation based on a grammar definition and associated model-to-text transformations.
+
+Alternative source code repository is located at https://github.com/MacJariel/dsl-debugger .
